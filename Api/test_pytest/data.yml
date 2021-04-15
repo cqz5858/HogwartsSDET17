@@ -1,0 +1,50 @@
+#-
+#    id: 1
+#    name: "信义科技"
+#    price: 50W
+#-
+#    id: 1
+#    name: "信义科技"
+#    price: 50W
+#-
+#    id: 1
+#    name: "信义科技"
+#    price: 50W
+#- key:
+#    child-key: value
+#    child-key2: value2
+
+#?
+#    - complexkey1
+#    - complexkey2
+#:
+#    - complexvalue1
+#    - complexvalue2
+
+
+  - [张一,13510461231]
+  - [张二,13510461232]
+  - [张三,13510461233]
+  - [张四,13510461234]
+
+#companies:
+#    -
+#        id: 1
+#        name: company1
+#        price: 200W
+#        dept:
+#            - dept1:
+#                     -
+#                       dname: 测试部门
+#                       manager: "陈经理"
+#                       workers:
+#                           - zs
+#                           - li
+#                           - ww
+#
+#            - dept2
+#            - dept3
+#    -
+#        id: 2
+#        name: company2
+#        price: 500W
